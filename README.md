@@ -19,7 +19,7 @@
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&&langs_count=5&count_private=true&theme=radical&card_width=445)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&card_width=445)<br>
 </div>
 
 
