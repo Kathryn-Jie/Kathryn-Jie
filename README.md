@@ -10,3 +10,8 @@
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br>
 </div>
 
+<div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+</div>
+
