@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm <a href="https://Kathryn-Jie.github.io/">Yi Jie<a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="130px" />
+### <h1 align="center">Hi, I'm <a href="https://Kathryn-Jie.github.io/">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="80px" />
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
