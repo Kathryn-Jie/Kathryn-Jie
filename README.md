@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya
-📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a>
-😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a>
+💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
+📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
+📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br>
 </div>
 
