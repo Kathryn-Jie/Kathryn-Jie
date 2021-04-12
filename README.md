@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm <a href="https://Kathryn-Jie.github.io/">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" />
+### <h1 align="center">Hi, I'm <a href="github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" />
 
 
 
