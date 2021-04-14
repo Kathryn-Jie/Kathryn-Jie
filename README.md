@@ -24,10 +24,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br>
 
 <strong>My Languages :</strong><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=for-the-badge&logo=r"/>
-<img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/><br>
+<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic&logo=r"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic&logo=html"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic&logo=css"/>
+<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic&logo=c%2b%2b"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&card_width=445)<br>
 </div>
 
