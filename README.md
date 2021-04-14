@@ -18,11 +18,11 @@
 📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
-My Github Stats :
+My Github Stats :<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/>
 
-My Languages :
+My Languages :<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&card_width=445)<br>
 </div>
 
