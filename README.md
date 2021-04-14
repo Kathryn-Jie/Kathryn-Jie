@@ -5,7 +5,7 @@
 </p>
 
 <div>
-<strong>About :</strong><br>
+<strong>About Me:</strong><br>
 💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
 📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
@@ -19,16 +19,16 @@
 📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
-<strong>My Github Stats :</strong><br>
+<strong>My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br><br>
 
-<strong>My Languages :</strong><br>
+<strong>My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-R-lightgrey?style=plastic&logo=r"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic&logo=html"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic&logo=css"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic&logo=c%2b%2b"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&card_width=445)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&card_width=445)
 </div>
 
 
