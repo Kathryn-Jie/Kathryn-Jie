@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&layout=compact&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&custom_title=I%20use&langs_count_private=true&theme=radical&layout=compact&card_width=445)<br><br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie)](https://github.com/Kathryn-Jie/Kathryn-Jie)
