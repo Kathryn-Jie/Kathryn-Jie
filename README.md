@@ -32,6 +32,7 @@
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Responsive-Web-Design)
 </div>
 
 
