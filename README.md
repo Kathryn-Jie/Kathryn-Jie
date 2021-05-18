@@ -11,10 +11,11 @@
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 <ul>
-  <li>SOA: Exam FM, Exam P</li>
+  <li>SOA: Exam FM, Exam P， Exam IFM</li>
   <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
   <li>Coursera: SAS Visual Business Analytics</li>
   <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+  <li>freeCodeCamp: Responsive Web Design</li> 
 </ul>
 📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
