@@ -6,9 +6,9 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
+💻 An incoming summer programme student at Peking University Summer School International<br>
+📚 A final year Actuarial Science undergraduate in University of Malaya<br>
+📈 Experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 <ul>
   <li>SOA: Exam FM, Exam P, Exam IFM</li>
