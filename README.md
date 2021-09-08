@@ -6,8 +6,8 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 A summer programme student at Peking University Summer School International<br>
-📚 A final year Actuarial Science undergraduate in University of Malaya<br>
+💻 An incoming Data Science master student<br>
+📚 An Actuarial Science fresh graduate from University of Malaya<br>
 📈 Experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 <ul>
