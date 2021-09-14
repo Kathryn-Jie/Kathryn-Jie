@@ -6,7 +6,7 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 An insipiring active learner<br>
+💻 An inspiring active learner<br>
 📚 An Actuarial Science fresh graduate from University of Malaya<br>
 📈 Experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
