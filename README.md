@@ -17,7 +17,7 @@
   <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
   <li>freeCodeCamp: Responsive Web Design</li> 
 </ul>
-📫 <-- Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br> -->
+📫 Reach me at <a href="mailto:-">-</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
